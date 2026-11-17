@@ -7,6 +7,7 @@ TagManager:
   - Ground
   - Platform
   - Attack
+  - Decorations
   layers:
   - Default
   - TransparentFX
@@ -49,3 +50,7 @@ TagManager:
     locked: 0
   m_RenderingLayers:
   - Default
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  m_MigratedRenderPipelines: []
